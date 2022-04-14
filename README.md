@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CodesByDine</h1>
 <h3 align="center">A Passionate Software Developer from Johannesburg, South Africa.</h3>
 
-- 💬 Ask me about **skills in HTML, C++, Java, PHP, Python, CSS, C# and JavaScript.**
+- 💬 Ask me about **skills in HTML, C++, PHP, Python, CSS, C# and JavaScript.**
 
 - 📫 How to reach me **dinegerald10@gmail.com**
 
