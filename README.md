@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **dinegerald10@gmail.com**
 
-- 📄 Know about my experiences [https://linkedin.com/in/geraldinegerald](www.linkedin.com/in/geraldinegerald)
+- 📄 Know about my experiences [www.linkedin.com/in/geraldinegerald](www.linkedin.com/in/geraldinegerald)
 
 - ⚡ Fun fact **I enjoy growing my experiences and learning new things.**
 
