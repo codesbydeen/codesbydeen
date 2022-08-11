@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Welcome!! 👋</h1>
 <h3 align="center">I am a Passionate C# Software Developer from Johannesburg, South Africa.</h3>
 
 - 💬 Ask me about **skills in HTML, C++, PHP, Python, CSS, C# and JavaScript.**
