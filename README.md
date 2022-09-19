@@ -1,7 +1,7 @@
 <h1 align="center">Welcome👋 </h1>
 <h3 align="center">I am a Passionate Software Developer from Johannesburg, South Africa.</h3>
 
-- 👨‍💻 All of my projects are available at [https://codesbydine.netlify.app/](https://codesbydine.netlify.app/)
+- 👨‍💻 My personal portfolio is available at [https://codesbydine.netlify.app/](https://codesbydine.netlify.app/)
 
 - 💬 Ask me about **react, typescript, javascript, phyton, C#**
 
