@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/geraldinegerald](www.linkedin.com/in/geraldinegerald)
 
-- ⚡ Fun fact **React is my favourite front-end framework library.**
+- ⚡ Fun fact **React is my favourite front-end framework library**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
