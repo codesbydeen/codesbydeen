@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dinegerald10@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/geraldinegerald](www.linkedin.com/in/geraldinegerald)
+- 📄 Know about my experiences on LinkedIn [www.linkedin.com/in/geraldinegerald](www.linkedin.com/in/geraldinegerald)
 
 - ⚡ Fun fact **React is my favourite front-end framework library**
 
