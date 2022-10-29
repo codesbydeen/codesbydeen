@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 👋 </h1>
-<h3 align="center">I am a Passionate Software Developer from Johannesburg, South Africa.</h3>
+<h3 align="center">I am a Passionate Software Developer from Johannesburg, South Africa</h3>
 
 - 👨‍💻 My personal portfolio is available and live at [https://codesbydine.netlify.app/](https://codesbydine.netlify.app/)
 
