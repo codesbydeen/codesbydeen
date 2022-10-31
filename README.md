@@ -1,9 +1,9 @@
 <h1 align="center">Welcome 👋 </h1>
-<h3 align="center">I am a passionate Software Developer from Johannesburg, South Africa</h3>
+<h3 align="center">I am a passionate software developer from Johannesburg, South Africa</h3>
 
 - 👨‍💻 My personal portfolio is available and live at [https://codesbydine.netlify.app/](https://codesbydine.netlify.app/)
 
-- 💬 Ask me about **react, typescript, javascript, phyton, C#**
+- 💬 Ask me about **react, typescript, javascript, phyton, tailwind css, C#**
 
 - 📫 How to reach me **dinegerald10@gmail.com**
 
