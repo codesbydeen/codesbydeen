@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently mastering **react native**
 
-- 👨‍💻 All of my projects are available at [https://codesbydine.netlify.app/](https://codesbydine.netlify.app/)
+- 👨‍💻 My portfolio is available at [https://codesbydine.netlify.app/](https://codesbydine.netlify.app/)
 
 - 💬 Ask me about **react, typescript, javascript, react native, tailwind css, C#**
 
