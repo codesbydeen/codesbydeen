@@ -3,7 +3,7 @@
 
 - 👨‍💻 My personal portfolio is available and live at [https://codesbydine.netlify.app/](https://codesbydine.netlify.app/)
 
-- 💬 Ask me about **react, typescript, javascript, phyton, tailwind css, C#**
+- 💬 Ask me about **react, typescript, javascript, react native, tailwind css, C#**
 
 - 📫 How to reach me **dinegerald10@gmail.com**
 
