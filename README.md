@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CodesByDine</h1>
 <h3 align="center">I am a passionate software developer from Johannesburg, South Africa</h3>
 
-- 🔭 I’m currently working on [Food Delivery](https://github.com/CodesByDine/PizzaShop)
+- 🔭 I’m currently working on [Pizza Shop](https://github.com/CodesByDine/PizzaShop)
 
 - 🌱 I’m currently mastering **react native**
 
