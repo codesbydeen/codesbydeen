@@ -7,7 +7,7 @@
 
 - 👨‍💻 My portfolio is available at [https://codesbydine.netlify.app/](https://codesbydine.netlify.app/)
 
-- 💬 Ask me about **react, typescript, javascript, react native, tailwind css, C#**
+- 💬 Ask me about **react, typescript, javascript, react native, tailwind css, C#, css**
 
 - 📫 How to reach me **dinegerald@gmail.com**
 
