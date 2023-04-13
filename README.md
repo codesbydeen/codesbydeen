@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [react native app](https://github.com/CodesByDine/)
 
-- 🌱 I’m currently mastering **react native**
+- 🌱 I’m currently mastering **React Native**
 
 - 👨‍💻 My portfolio is available at [https://codesbydine.netlify.app/](https://codesbydine.netlify.app/)
 
