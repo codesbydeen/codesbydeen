@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Geraldine</h1>
 <h3 align="center">I am a passionate software developer from Johannesburg, South Africa</h3>
 
-- 🔭 I’m currently working on [react native app](https://github.com/CodesByDine/)
+- 🔭 I’m currently working on [React Native App](https://github.com/CodesByDine/)
 
 - 🌱 I’m currently mastering **React Native**
 
