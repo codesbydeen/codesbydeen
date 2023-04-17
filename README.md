@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/geraldinegerald](www.linkedin.com/in/geraldinegerald)
 
-- ⚡ Fun fact **I am passionate about mobile application development**
+- ⚡ Fun fact **I have a passionate for mobile application development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
