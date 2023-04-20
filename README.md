@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, php, javascript, react native, html, C#, css**
 
-- 📫 How to reach me **dinegerald10@gmail.com**
+- 📫 How to reach me via email **dinegerald10@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/geraldinegerald](www.linkedin.com/in/geraldinegerald)
 
