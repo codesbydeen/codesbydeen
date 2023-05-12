@@ -11,7 +11,7 @@
 
 - 📫 How to reach me via email **dinegerald10@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/geraldinegerald/](www.linkedin.com/in/geraldinegerald)
+- 📄 Know about my experiences [https://www.linkedin.com/in/geraldinegerald/](https://www.linkedin.com/in/geraldinegerald/)
 
 - ⚡ Fun fact **I have a passionate for mobile application development**
 
