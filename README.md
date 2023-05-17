@@ -11,6 +11,5 @@
 
 📬 If you're looking for an ambitious and proactive team member who can bring fresh ideas and a strong work ethic to your organization, I'd love to connect! Feel free to reach out and let's discuss how we can create extraordinary mobile experiences together. 🚀</p>
 
-<p align='center'>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesbydine&layout=donut)](https://github.com/codesbydine/github-readme-stats)</p>
-
-<p align='center'>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesbydine&layout=donut)](https://github.com/codesbydine/github-readme-stats)
+![Geraldine's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesbydine&show_icons=true&theme=dracula)
