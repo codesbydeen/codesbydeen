@@ -9,8 +9,6 @@
 
 🤝 Collaboration and teamwork are integral parts of my work ethic. I'm always eager to collaborate with diverse teams, exchanging ideas and perspectives to create innovative solutions. I believe that the power of teamwork can bring out the best in every project. <br />
 
-🌐 Outside the realm of coding, I enjoy exploring the world of design and user experience. I believe that a harmonious blend of functionality and aesthetics can truly elevate an application's appeal. Additionally, I'm an avid problem solver, and I find great satisfaction in troubleshooting and finding elegant solutions to complex challenges.<br />
-
 📬 If you're looking for an ambitious and proactive team member who can bring fresh ideas and a strong work ethic to your organization, I'd love to connect! Feel free to reach out and let's discuss how we can create extraordinary mobile experiences together. 🚀</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesbydine&layout=donut)](https://github.com/codesbydine/github-readme-stats)
