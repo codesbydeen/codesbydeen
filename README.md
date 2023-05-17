@@ -1,7 +1,7 @@
 <h1>Hi, I'm Geraldine 👋🏾 👩🏾‍💻</h1>
 <img src='https://github.com/CodesByDine/CodesByDine/assets/91410767/a85919f0-6b36-43f9-882c-b69418da7ecb' />
 
-[![Geraldine's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesbydine)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesbydine)](https://github.com/codesbydine/github-readme-stats)
 
 <p>I'm a final year Software Engineering student with a passion for crafting exceptional mobile applications. 💻 </br>
 
