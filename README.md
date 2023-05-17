@@ -1,5 +1,5 @@
 <h1>Hi, I'm Geraldine</h1>
-![Colorful Watercolor Twitter Header](https://github.com/CodesByDine/CodesByDine/assets/91410767/a85919f0-6b36-43f9-882c-b69418da7ecb)
+<img src='https://github.com/CodesByDine/CodesByDine/assets/91410767/a85919f0-6b36-43f9-882c-b69418da7ecb' />
 <h3 align="center">I am a passionate software developer from Johannesburg, South Africa</h3>
 
 - 🔭 I’m currently working on [React Native](https://github.com/CodesByDine/)
