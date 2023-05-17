@@ -1,28 +1,17 @@
-<h1>Hi, I'm Geraldine</h1>
+<h1>Hi, I'm Geraldine 👋🏾 👩🏾‍💻</h1>
 <img src='https://github.com/CodesByDine/CodesByDine/assets/91410767/a85919f0-6b36-43f9-882c-b69418da7ecb' />
-<h3 align="center">I am a passionate software developer from Johannesburg, South Africa</h3>
+<p>I'm a final year Software Engineering student with a passion for crafting exceptional mobile applications. 💻 </br>
 
-- 🔭 I’m currently working on [React Native](https://github.com/CodesByDine/)
+🎓 Throughout my academic journey, I've gained a solid foundation in software development principles, data structures, and algorithms. I'm eager to put my skills into practice and make a positive impact in the mobile application industry. 📱<br />
 
-- 🌱 I’m currently mastering **React Native**
+🏢 On the practical side, I've been working part-time on various projects where I've honed my skills in building React websites and developing React Native applications. I thrive on the creative process of designing intuitive user interfaces and implementing robust functionalities that deliver seamless user experiences.<br />
 
-- 👨‍💻 My portfolio is available at [https://codesbydine.netlify.app/](https://codesbydine.netlify.app/)
+🌟 What drives me is the opportunity to constantly learn and adapt to the ever-evolving mobile landscape. I enjoy keeping up with the latest trends and technologies, ensuring that I stay ahead of the curve and can leverage the best tools and frameworks available.<br />
 
-- 💬 Ask me about **react, php, javascript, react native, html, C#, css**
+🤝 Collaboration and teamwork are integral parts of my work ethic. I'm always eager to collaborate with diverse teams, exchanging ideas and perspectives to create innovative solutions. I believe that the power of teamwork can bring out the best in every project. <br />
 
-- 📫 How to reach me via email **dinegerald10@gmail.com**
+🌐 Outside the realm of coding, I enjoy exploring the world of design and user experience. I believe that a harmonious blend of functionality and aesthetics can truly elevate an application's appeal. Additionally, I'm an avid problem solver, and I find great satisfaction in troubleshooting and finding elegant solutions to complex challenges.<br />
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/geraldinegerald/](https://www.linkedin.com/in/geraldinegerald/)
+📚 As I approach the end of my academic journey, I'm excited to embark on a professional career in the mobile application industry. I'm actively seeking opportunities to contribute my skills, passion, and dedication to a team that shares my drive for excellence.<br />
 
-- ⚡ Fun fact **I have a passionate for mobile application development**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/deengerald10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realgeraldineg" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/geraldinegerald/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/geraldinegerald/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesbydine&show_icons=true&locale=en&layout=compact" alt="codesbydine" /></p>
+📬 If you're looking for an ambitious and proactive team member who can bring fresh ideas and a strong work ethic to your organization, I'd love to connect! Feel free to reach out and let's discuss how we can create extraordinary mobile experiences together. 🚀</p>
