@@ -1,6 +1,6 @@
 <h1>Hi, I'm Geraldine 👋🏾 👩🏾‍💻</h1>
 <img src='https://github.com/CodesByDine/CodesByDine/assets/91410767/a85919f0-6b36-43f9-882c-b69418da7ecb' />
-<br />
+<p> </p> <br />
 <p>👩🏽‍💻I'm a Final Year Software Engineering Student with a passion for crafting exceptional mobile applications. 💻 </br>
 
 <h3 align="left">Connect with me:</h3>
