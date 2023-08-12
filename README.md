@@ -1,7 +1,7 @@
 <h1>Hi, I'm Geraldine 👋🏾 👩🏾‍💻</h1>
 <img src='https://github.com/CodesByDine/CodesByDine/assets/91410767/a85919f0-6b36-43f9-882c-b69418da7ecb' />
 <p> </p> <br />
-<p>👩🏽‍💻I am an aspiring Quality Engineer. 💻 </br>
+<p>👩🏽‍💻I am an aspiring Software Engineer. 💻 </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
