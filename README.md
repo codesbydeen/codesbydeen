@@ -12,5 +12,6 @@
 
 🤝 Collaboration and teamwork are integral parts of my work ethic. I'm always eager to collaborate with diverse teams, exchanging ideas and perspectives to create innovative solutions. I believe that the power of teamwork can bring out the best in every project. <br />
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesbydine&layout=donut&theme=dracula)](https://github.com/codesbydine/github-readme-stats)
 ![Geraldine's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesbydine&show_icons=true&theme=dracula)
