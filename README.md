@@ -1,6 +1,7 @@
 <h1>Hi, I'm Geraldine 👋🏾 👩🏾‍💻</h1> <br />
 
 <img src='(https://github.com/CodesByDine/CodesByDine/assets/91410767/3a7ef372-f246-42a0-86eb-a65bc2ad9606)' />
+![Colorful Watercolor Twitter Header]<img src='(https://github.com/CodesByDine/CodesByDine/assets/91410767/d52380e7-2794-4246-9d7a-9d39a68fdda8)' />
 
 <p> </p> <br />
 <p>👩🏽‍💻Bsc Information Technology (Software Engineering) Graduate 💻 </br>
