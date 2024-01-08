@@ -1,4 +1,5 @@
-<h1>Hi, I'm Geraldine 👋🏾 👩🏾‍💻</h1>
+<h1>Hi, I'm Geraldine 👋🏾 👩🏾‍💻</h1> <br />
+
 <img src='(https://github.com/CodesByDine/CodesByDine/assets/91410767/3a7ef372-f246-42a0-86eb-a65bc2ad9606)' />
 
 <p> </p> <br />
