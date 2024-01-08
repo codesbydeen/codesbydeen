@@ -1,5 +1,5 @@
 <h1>Hi, I'm Geraldine 👋🏾 👩🏾‍💻</h1> <br />
-<img src="(https://github.com/CodesByDine/CodesByDine/assets/91410767/0ad089c1-00bf-4075-8a30-99b52b679655)" />
+<img src="https://github.com/CodesByDine/CodesByDine/assets/91410767/0ad089c1-00bf-4075-8a30-99b52b679655" />
 
 <p> </p> <br />
 <p>👩🏽‍💻Bsc Information Technology (Software Engineering) Graduate 💻 </br>
