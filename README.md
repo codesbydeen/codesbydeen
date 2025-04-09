@@ -12,8 +12,8 @@
 <br>🚀 Career Focus:</br>
 <br>I have a strong foundation in software development principles, data structures, and algorithms, and I’m always eager to learn and grow. I enjoy working on projects that challenge me and allow me to explore new technologies. Whether it's building dynamic websites, crafting user interfaces, or diving into backend development, I’m excited about the entire software development process.</br>
 
-<br>🛠️ Current Work:</br>
-<br>As a Software Quality Engineer, I focus on ensuring the stability and scalability of backend systems while continuously learning how to improve my craft. I'm particularly passionate about working with APIs, and I enjoy exploring tools like Azure DevOps to streamline development processes.</br>
+<br>🛠️ Projects & Expertise:</br>
+<br>I have experience developing dynamic websites and applications, focusing on clean, efficient code and responsive design. I'm particularly excited about building APIs, implementing best practices in software architecture, and using tools like Azure DevOps to streamline development workflows and deployment processes.</br>
 
 <br>🤝 Collaboration:
 I’m a firm believer in the power of collaboration and the value that diverse perspectives bring to every project. I’m always open to exchanging ideas and working with others to create innovative, effective solutions.</br>
