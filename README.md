@@ -14,3 +14,12 @@
 
 🤝 Collaboration and teamwork are integral parts of my work ethic. I'm always eager to collaborate with diverse teams, exchanging ideas and perspectives to create innovative solutions. I believe that the power of teamwork can bring out the best in every project. <br />
 
+<br>🚀 Career Focus:</br>
+<br>I have a strong foundation in software development principles, data structures, and algorithms, and I’m always eager to learn and grow. I enjoy working on projects that challenge me and allow me to explore new technologies. Whether it's building dynamic websites, crafting user interfaces, or diving into backend development, I’m excited about the entire software development process.</br>
+
+<br>🛠️ Current Work:</br>
+<br>As a Software Quality Engineer, I focus on ensuring the stability and scalability of backend systems while continuously learning how to improve my craft. I'm particularly passionate about working with APIs, and I enjoy exploring tools like Azure DevOps to streamline development processes.</br>
+
+<br>🤝 Collaboration:
+I’m a firm believer in the power of collaboration and the value that diverse perspectives bring to every project. I’m always open to exchanging ideas and working with others to create innovative, effective solutions.</br>
+
