@@ -1,20 +1,79 @@
-<h1>Hi, I'm Geraldine👋🏽 </h1> <br />
-<img src="https://github.com/CodesByDine/CodesByDine/assets/91410767/0ad089c1-00bf-4075-8a30-99b52b679655" />
+<h1 align="center">Hi, I'm Geraldine 👋🏽</h1>
 
-<p> </p> <br />
-<p>👩🏽‍💻Bsc Information Technology (Software Engineering) Graduate </br>
+<p align="center">
+  <img src="https://github.com/CodesByDine/CodesByDine/assets/91410767/0ad089c1-00bf-4075-8a30-99b52b679655" alt="Geraldine Banner" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3> <br />
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt![Colorful Watercolor Twitter Header](https://github.com/CodesByDine/CodesByDine/assets/91410767/2f5707a2-ceba-420e-aa41-b2ac450e9e68)
-="reactnative" width="40" height="40"/> </a> </p>
+<hr />
 
+<p align="center">
+  🎓 <strong>BSc in Information Technology (Software Engineering)</strong><br>
+  📍 South Africa
+</p>
 
-<br>🚀 Career Focus:</br>
-<br>I have a strong foundation in software development principles, data structures, and algorithms, and I’m always eager to learn and grow. I enjoy working on projects that challenge me and allow me to explore new technologies. Whether it's building dynamic websites, crafting user interfaces, or diving into backend development, I’m excited about the entire software development process.</br>
+<hr />
 
-<br>🛠️ Projects & Expertise:</br>
-<br>I have experience developing dynamic websites and applications, focusing on clean, efficient code and responsive design. I'm particularly excited about building APIs, implementing best practices in software architecture, and using tools like Azure DevOps to streamline development workflows and deployment processes.</br>
+<h3>🚀 About Me</h3>
 
-<br>🤝 Collaboration:
-I’m a firm believer in the power of collaboration and the value that diverse perspectives bring to every project. I’m always open to exchanging ideas and working with others to create innovative, effective solutions.</br>
+<p>
+  I'm a tech-driven professional passionate about building user-friendly applications and scalable backend systems.
+</p>
 
+<ul>
+  <li>🔨 Hands-on with modern web frameworks like Angular & React</li>
+  <li>💻 Comfortable building and consuming REST APIs</li>
+  <li>🧠 Committed to clean code, testing, and continuous learning</li>
+  <li>☁️ Exploring cloud development with <strong>Azure</strong> and <strong>DevOps pipelines</strong></li>
+</ul>
+
+<h3>🛠️ Developer Skills</h3>
+
+<p>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/azure/devops/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+</p>
+
+<h3>💼 What I Work On</h3>
+
+<ul>
+  <li>Building dynamic front-end apps with Angular & React</li>
+  <li>Writing clean, maintainable code with proper version control</li>
+  <li>Learning through mentorship, documentation, and hands-on practice</li>
+</ul>
+
+<h3>🤝 Let’s Connect</h3>
+
+<p>
+  📫 <a href="https://www.linkedin.com/in/your-profile-link/">LinkedIn</a>
+</p>
+
+<hr />
+
+<p align="center">
+  <img src="https://github.com/CodesByDine/CodesByDine/assets/91410767/2f5707a2-ceba-420e-aa41-b2ac450e9e68" alt="Footer Banner" />
+</p>
