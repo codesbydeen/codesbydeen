@@ -13,6 +13,16 @@
 
 <hr />
 
+<h3>📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodesByDine&show_icons=true&theme=radical" alt="Geraldine's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesByDine&layout=compact&theme=radical" alt="Top Languages" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=CodesByDine&theme=radical" alt="GitHub Streak" />
+</p>
+
 <h3>🚀 About Me</h3>
 
 <p>
