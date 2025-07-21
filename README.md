@@ -32,9 +32,6 @@
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
@@ -69,11 +66,7 @@
 <h3>🤝 Let’s Connect</h3>
 
 <p>
-  📫 <a href="https://www.linkedin.com/in/your-profile-link/">LinkedIn</a>
+  📫 <a href="[https://www.linkedin.com/in/your-profile-link/](https://www.linkedin.com/in/geraldinegerald/)">LinkedIn</a>
 </p>
 
 <hr />
-
-<p align="center">
-  <img src="https://github.com/CodesByDine/CodesByDine/assets/91410767/2f5707a2-ceba-420e-aa41-b2ac450e9e68" alt="Footer Banner" />
-</p>
