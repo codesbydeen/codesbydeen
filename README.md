@@ -7,7 +7,7 @@
 <hr />
 
 <p align="center">
-  🎓 <strong>BSc in Information Technology (Software Engineering)</strong><br>
+  🎓 <strong>BSc in Information Technology </strong><br>
   📍 South Africa
 </p>
 
