@@ -30,7 +30,7 @@
 </p>
 
 <ul>
-  <li>🔨 Hands-on with modern web frameworks like Angular & React</li>
+  <li>🔨 Hands-on with modern web frameworks like Angular </li>
   <li>💻 Comfortable building and consuming REST APIs</li>
   <li>🧠 Committed to clean code, testing, and continuous learning</li>
   <li>☁️ Exploring cloud development with <strong>Azure</strong> and <strong>DevOps pipelines</strong></li>
