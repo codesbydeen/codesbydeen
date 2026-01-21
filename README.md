@@ -6,11 +6,6 @@
 
 <hr />
 
-<p align="center">
-  🎓 <strong>BSc in Information Technology </strong><br>
-  📍 South Africa
-</p>
-
 <hr />
 
 <h3>📊 GitHub Stats</h3>
