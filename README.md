@@ -66,10 +66,5 @@
   <li>Learning through mentorship, documentation, and hands-on practice</li>
 </ul>
 
-<h3>🤝 Let’s Connect</h3>
-
-<p>
-  📫 <a href="[https://www.linkedin.com/in/your-profile-link/](https://www.linkedin.com/in/geraldinegerald/)">LinkedIn</a>
-</p>
 
 <hr />
