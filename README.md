@@ -60,7 +60,7 @@
 <h3>💼 What I Work On</h3>
 
 <ul>
-  <li>Building dynamic front-end apps with Angular & React</li>
+  <li>Building dynamic front-end apps with Angular</li>
   <li>Writing clean, maintainable code with proper version control</li>
   <li>Learning through mentorship, documentation, and hands-on practice</li>
 </ul>
