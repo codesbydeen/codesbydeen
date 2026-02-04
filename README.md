@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋🏽</h1>
-<hr />
 
 <h3>📊 GitHub Stats </h3>
 
