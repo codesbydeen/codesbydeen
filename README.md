@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋🏽</h1>
-
-<p align="center">
-  <img src="https://github.com/CodesByDine/CodesByDine/assets/91410767/0ad089c1-00bf-4075-8a30-99b52b679655" alt="Geraldine Banner" />
-</p>
-
 <hr />
 
 <h3>📊 GitHub Stats </h3>
