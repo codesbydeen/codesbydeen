@@ -52,6 +52,3 @@
   <li>Writing clean, maintainable code with proper version control</li>
   <li>Learning through mentorship, documentation, and hands-on practice</li>
 </ul>
-
-
-<hr />
