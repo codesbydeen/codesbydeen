@@ -1,10 +1,6 @@
 <h3>📊 GitHub Stats </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codesbydeen&show_icons=true&theme=radical" alt="Geraldine's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesbydeen&layout=compact&theme=radical" alt="Top Languages" />
-  <br>
   <img src="https://streak-stats.demolab.com?user=codesbydeen&theme=radical" alt="GitHub Streak" />
 </p>
 
