@@ -45,7 +45,7 @@
   </a>
 </p>
 
-<h3>💼 What I Work On</h3>
+<h3>💼 What I Work On </h3>
 
 <ul>
   <li>Building dynamic front-end apps with Angular</li>
